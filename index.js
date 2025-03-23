@@ -68,5 +68,5 @@ function updateUI(){
     localStorage.setItem('todos', JSON.stringify({todoList}));
 
 }
-
+//buttont to clock
 addBtn.addEventListener('click', addTodo);
